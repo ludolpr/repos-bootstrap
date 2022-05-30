@@ -56,7 +56,7 @@ body nav a {
     top: 95%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #f09e07;
+        background-color: #f09e07;
     border: none;
     border: #0029af outset 3px;
 }
@@ -94,12 +94,20 @@ footer {
 .sup2{
     border: #0029af outset 3px;
     background-color: #f09e07;
+    color: #0029af;
 }
 
 .form{
     
     border: #0029af outset 3px;
-    background-color: #f09e07;
+    background-color: #11111073;
     margin: 20px;
     border-radius: 20px;
+}
+.bg-blk{
+    background-color: #11111073;
+    border-radius: 45px 0;
+    border: #0029af outset 3px;
+    color: #0029af;
+
 }
